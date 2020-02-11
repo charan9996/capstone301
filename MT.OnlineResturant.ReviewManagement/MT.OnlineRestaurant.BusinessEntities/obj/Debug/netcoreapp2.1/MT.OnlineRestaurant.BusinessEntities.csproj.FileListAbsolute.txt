@@ -1,0 +1,9 @@
+C:\Users\M1046907\Desktop\My_Learing\301_CapStone\MT.OnlineResturant.ReviewManagement\MT.OnlineRestaurant.BusinessEntities\bin\Debug\netcoreapp2.1\MT.OnlineRestaurant.BusinessEntities.deps.json
+C:\Users\M1046907\Desktop\My_Learing\301_CapStone\MT.OnlineResturant.ReviewManagement\MT.OnlineRestaurant.BusinessEntities\bin\Debug\netcoreapp2.1\MT.OnlineRestaurant.BusinessEntities.dll
+C:\Users\M1046907\Desktop\My_Learing\301_CapStone\MT.OnlineResturant.ReviewManagement\MT.OnlineRestaurant.BusinessEntities\bin\Debug\netcoreapp2.1\MT.OnlineRestaurant.BusinessEntities.pdb
+C:\Users\M1046907\Desktop\My_Learing\301_CapStone\MT.OnlineResturant.ReviewManagement\MT.OnlineRestaurant.BusinessEntities\obj\Debug\netcoreapp2.1\MT.OnlineRestaurant.BusinessEntities.csprojAssemblyReference.cache
+C:\Users\M1046907\Desktop\My_Learing\301_CapStone\MT.OnlineResturant.ReviewManagement\MT.OnlineRestaurant.BusinessEntities\obj\Debug\netcoreapp2.1\MT.OnlineRestaurant.BusinessEntities.csproj.CoreCompileInputs.cache
+C:\Users\M1046907\Desktop\My_Learing\301_CapStone\MT.OnlineResturant.ReviewManagement\MT.OnlineRestaurant.BusinessEntities\obj\Debug\netcoreapp2.1\MT.OnlineRestaurant.BusinessEntities.AssemblyInfoInputs.cache
+C:\Users\M1046907\Desktop\My_Learing\301_CapStone\MT.OnlineResturant.ReviewManagement\MT.OnlineRestaurant.BusinessEntities\obj\Debug\netcoreapp2.1\MT.OnlineRestaurant.BusinessEntities.AssemblyInfo.cs
+C:\Users\M1046907\Desktop\My_Learing\301_CapStone\MT.OnlineResturant.ReviewManagement\MT.OnlineRestaurant.BusinessEntities\obj\Debug\netcoreapp2.1\MT.OnlineRestaurant.BusinessEntities.dll
+C:\Users\M1046907\Desktop\My_Learing\301_CapStone\MT.OnlineResturant.ReviewManagement\MT.OnlineRestaurant.BusinessEntities\obj\Debug\netcoreapp2.1\MT.OnlineRestaurant.BusinessEntities.pdb

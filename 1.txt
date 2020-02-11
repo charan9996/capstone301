@@ -1,0 +1,38 @@
+  Insert into [RestaurantManagement].[dbo].[tblLocation] values (2.1,1.3,5,5,'1996-09-09 00:00:00.000','1996-09-09 00:00:00.000')
+Insert into [RestaurantManagement].[dbo].[tblLocation] values (10,11,6,6,'1996-09-10 00:00:00.000','1996-09-10 00:00:00.000')
+Insert into [RestaurantManagement].[dbo].[tblLocation] values (0,0,3,3,'1996-09-11 00:00:00.000','1996-09-11 00:00:00.000')
+go
+ Insert into [RestaurantManagement].[dbo].[tblRestaurant] values ('Ambica',6,'8374051917',1,1,'1996-09-10 00:00:00.000','1996-09-10 00:00:00.000','Backgate','https:ambica.com','9Am','10pm')
+Insert into [RestaurantManagement].[dbo].[tblRestaurant] values ('Saibaba',11,'1111111111',6,6,'1996-09-10 00:00:00.000','1996-09-10 00:00:00.000','Backgate','https:ambica.com','9Am','10pm')
+Insert into [RestaurantManagement].[dbo].[tblRestaurant] values ('KotiAndhra',13,'2222222222',3,3,'1996-09-10 00:00:00.000','1996-09-10 00:00:00.000','Backgate','https:ambica.com','9Am','10pm')
+go
+ Insert into [RestaurantManagement].[dbo].[tblRestaurantDetails] values (1,20,4,1,1,1,'1996-09-09 00:00:00.000','1996-09-09 00:00:00.000')
+Insert into [RestaurantManagement].[dbo].[tblRestaurantDetails] values (2,30,5,1,6,6,'1996-09-10 00:00:00.000','1996-09-10 00:00:00.000')
+Insert into [RestaurantManagement].[dbo].[tblRestaurantDetails] values (3,40,3,1,3,3,'1996-09-11 00:00:00.000','1996-09-11 00:00:00.000')
+go
+ Insert into [RestaurantManagement].[dbo].[tblRating] values (5,'Good',1,123,1,1,'1996-09-09 00:00:00.000','1996-09-09 00:00:00.000')
+Insert into [RestaurantManagement].[dbo].[tblRating] values (3,'Avg',2,234,6,6,'1996-09-09 00:00:00.000','1996-09-09 00:00:00.000')
+Insert into [RestaurantManagement].[dbo].[tblRating] values (1,'Bad',3,123,3,3,'1996-09-09 00:00:00.000','1996-09-09 00:00:00.000')
+go
+
+Insert into [RestaurantManagement].[dbo].[tblCuisine] values ('Chinese',1,1,'1996-09-09 00:00:00.000','1996-09-09 00:00:00.000')
+Insert into [RestaurantManagement].[dbo].[tblCuisine] values ('Tradational',1,1,'1996-09-09 00:00:00.000','1996-09-09 00:00:00.000')
+Insert into [RestaurantManagement].[dbo].[tblCuisine] values ('Continential',1,1,'1996-09-09 00:00:00.000','1996-09-09 00:00:00.000')
+go
+ Insert into [RestaurantManagement].[dbo].[tblMenu] values ('Biryani',1,1,1,'1996-09-09 00:00:00.000','1996-09-09 00:00:00.000',2)
+Insert into [RestaurantManagement].[dbo].[tblMenu] values ('Curdrice',2,1,1,'1996-09-09 00:00:00.000','1996-09-09 00:00:00.000',3)
+Insert into [RestaurantManagement].[dbo].[tblMenu]values ('Dum_Biryani',3,1,1,'1996-09-09 00:00:00.000','1996-09-09 00:00:00.000',1)
+go
+Insert into [RestaurantManagement].[dbo].[tblOffer] values (1,1,1000,'2018-09-09 00:00:00.000','2018-09-10 00:00:00.000',2,1,1,'1996-09-09 00:00:00.000','1996-09-09 00:00:00.000')
+Insert into [RestaurantManagement].[dbo].[tblOffer] values (1,1,1000,'2018-09-09 00:00:00.000','2018-09-10 00:00:00.000',3,1,1,'1996-09-09 00:00:00.000','1996-09-09 00:00:00.000')
+Insert into [RestaurantManagement].[dbo].[tblOffer] values (1,1,1000,'2018-09-09 00:00:00.000','2018-09-10 00:00:00.000',4,1,1,'1996-09-09 00:00:00.000','1996-09-09 00:00:00.000')
+
+ Insert into [RestaurantManagement].[dbo].[tblOffer] values (2,2,1000,'2019-09-09 00:00:00.000','2019-09-10 00:00:00.000',2,3,3,'1996-09-09 00:00:00.000','1996-09-09 00:00:00.000')
+Insert into [RestaurantManagement].[dbo].[tblOffer] values (2,2,1000,'2019-09-09 00:00:00.000','2019-09-10 00:00:00.000',3,3,3,'1996-09-09 00:00:00.000','1996-09-09 00:00:00.000')
+Insert into [RestaurantManagement].[dbo].[tblOffer] values (2,2,1000,'2019-09-09 00:00:00.000','2019-09-10 00:00:00.000',4,3,3,'1996-09-09 00:00:00.000','1996-09-09 00:00:00.000')
+
+
+ Insert into [RestaurantManagement].[dbo].[tblOffer] values (3,3,1000,'2019-09-09 00:00:00.000','2019-09-10 00:00:00.000',2,3,3,'1996-09-09 00:00:00.000','1996-09-09 00:00:00.000')
+Insert into [RestaurantManagement].[dbo].[tblOffer] values (3,3,1000,'2019-09-09 00:00:00.000','2019-09-10 00:00:00.000',3,3,3,'1996-09-09 00:00:00.000','1996-09-09 00:00:00.000')
+Insert into [RestaurantManagement].[dbo].[tblOffer] values (3,3,1000,'2019-09-09 00:00:00.000','2019-09-10 00:00:00.000',4,3,3,'1996-09-09 00:00:00.000','1996-09-09 00:00:00.000')
+go
